@@ -1,7 +1,7 @@
 <!-- Profile README for @sidDarthVader31 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Siddharth+Bisht+👋;Senior+Backend+Engineer;B2B+SaaS+%7C+Distributed+Systems+%7C+Cloud+Native;Neovim+Enthusiast+%7C+Adventure+Motorcyclist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Siddharth+Bisht+👋;Senior+Backend+Engineer;B2B+SaaS+%7C+Distributed+Systems+%7C+Cloud+Native;Neovim+Enthusiast+%7C+Adventure+Motorcyclist" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,7 +20,13 @@
 
 ### 🔹 [Apexio](https://github.com/sidDarthVader31/apexio)  
 📊 Real-time **log aggregation platform** with **Go, gRPC, Kafka, Docker, Kubernetes, Elasticsearch**.  
-✅ Structured logging · ⚡ Scalable · 🔎 Observability-first · 🌐 Inspired by SRE practices  
+✅ Scalable · 🔎 Observability-first · 🌐 SRE-inspired  
+
+**Tech:** ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) 
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)  
 
 ---
 
@@ -28,17 +34,28 @@
 🤖 A **Twitter bot** that retweets everything about **JavaScript** and **Node.js** in real time.  
 📰 Automates content discovery · ⚡ Developer-focused · 🔍 Extensible  
 
+**Tech:** ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)  
+
 ---
 
 ### 🔹 [Friday-Go](https://github.com/sidDarthVader31/friday-go)  
 🚀 A **Go rewrite** of Friday to explore **performance vs Node.js**.  
 ⚡ Showcases Go concurrency · 🧩 Optimized & lean  
 
+**Tech:** ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) 
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)  
+
 ---
 
 ### 🔹 [skeletonExpress](https://github.com/sidDarthVader31/skeletonExpress)  
 🛠️ A CLI + **Express boilerplate** with auth, logger, Docker, and batteries included.  
 📦 Faster onboarding · 🗂️ Clean structure · ⏱️ Ready to ship in minutes  
+
+**Tech:** ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 
 ---
 
@@ -59,6 +76,22 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidDarthVader31&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sidDarthVader31&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidDarthVader31&theme=tokyo-night" />
+</p>
+
+---
+
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SidDarthVader31?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
