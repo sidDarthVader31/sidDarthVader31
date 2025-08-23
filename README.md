@@ -1,52 +1,52 @@
 <!-- Profile README for @sidDarthVader31 -->
 
-<h1 align="center">Hey 👋, I'm Siddharth Bisht</h1>
-
+<h1 align="center">👋 Hi, I'm Siddharth Bisht</h1>
 <p align="center">
-  <b>Backend Developer • Scalable Systems Enthusiast • Open Source Contributor</b>
+  <b>Senior Backend Engineer • B2B SaaS • Distributed Systems • Cloud Native</b>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently diving deep into **Go, gRPC, Kubernetes, and Distributed Systems**  
-- ⚡ Passionate about **backend engineering**, **performance tuning**, and building tools for developers  
-- 🛠️ I love experimenting with **Neovim**, **system design**, and **low-level design problems**  
-- 🎯 Goal: Keep building **scalable and developer-friendly solutions**  
+- 💼 **Backend Engineer (7+ years)** building **scalable B2B SaaS platforms** and distributed systems  
+- ⚡ Strong expertise in **Node.js, Golang, Kafka, AWS, MySQL, Redis, MongoDB**  
+- 📊 Experienced in handling **high-volume event pipelines (200K+ events/sec)** and **consumer-scale systems (500K+ DAU)**  
+- 🚀 Passionate about **performance engineering, observability, and clean architecture**  
+- 🌱 Exploring **gRPC, Golang, Kubernetes, and SRE best practices**  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 [Apexio](https://github.com/sidDarthVader31/apexio)  
-⚡ A lightweight and extensible **Node.js + Express framework** to bootstrap scalable backends faster.  
-🧩 Modular · 🚀 Fast setup · 📦 Developer-friendly  
+📊 Real-time **log aggregation platform** with **Go, gRPC, Kafka, Docker, Kubernetes, Elasticsearch**.  
+✅ Structured logging · ⚡ Scalable · 🔎 Observability-first · 🌐 Inspired by SRE practices  
 
 ---
 
 ### 🔹 [Friday](https://github.com/sidDarthVader31/friday)  
-🤖 A **Twitter bot** that retweets everything about **JavaScript** and **Node.js** in real-time.  
-🔍 Automates discovery · 📰 Keeps devs updated · ⚡ Simple & extensible  
+🤖 A **Twitter bot** that retweets everything about **JavaScript** and **Node.js** in real time.  
+📰 Automates content discovery · ⚡ Developer-focused · 🔍 Extensible  
 
 ---
 
 ### 🔹 [Friday-Go](https://github.com/sidDarthVader31/friday-go)  
-🚀 A Go-powered rewrite of **Friday** for performance benchmarking.  
-⚡ Built to compare **Go concurrency** vs **Node async model**  
+🚀 A **Go rewrite** of Friday to explore **performance vs Node.js**.  
+⚡ Showcases Go concurrency · 🧩 Optimized & lean  
 
 ---
 
 ### 🔹 [skeletonExpress](https://github.com/sidDarthVader31/skeletonExpress)  
-🛠️ An **Express boilerplate** with everything preconfigured.  
-📦 Preinstalled dependencies · 🗂️ Clean structure · ⏱️ Ready in minutes  
+🛠️ A CLI + **Express boilerplate** with auth, logger, Docker, and batteries included.  
+📦 Faster onboarding · 🗂️ Clean structure · ⏱️ Ready to ship in minutes  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,js,ts,nodejs,go,kafka,postgres,mysql,mongodb,docker,kubernetes,git,java" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,ts,js,java,express,nestjs,gin,mysql,postgres,mongodb,redis,elasticsearch,aws,docker,kubernetes,jenkins,git,neovim" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://about.me/siddharth_bisht"><img src="https://img.shields.io/badge/About.me-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:siddharthbisht31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/siddharthbisht31"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/sidDarthVader31"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
