@@ -4,6 +4,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Siddharth+Bisht+👋;Senior+Backend+Engineer;B2B+SaaS+%7C+Distributed+Systems+%7C+Cloud+Native;Neovim+Enthusiast+%7C+Adventure+Motorcyclist" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -16,7 +26,20 @@
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Highlights
+
+> 🚀 Built **event-driven pipelines** processing **200K+ events/sec** with fault tolerance  
+> 📊 Scaled **B2B SaaS platforms** to support **500K+ DAU** with high availability  
+> 🔎 Developed **log aggregation & monitoring platform** with observability-first design  
+> 🛠️ Creator of **developer tools** like `skeletonExpress` 
+
+---
+
+## 🚀 Side Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔹 [Apexio](https://github.com/sidDarthVader31/apexio)  
 📊 Real-time **log aggregation platform** with **Go, gRPC, Kafka, Docker, Kubernetes, Elasticsearch**.  
@@ -28,7 +51,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)  
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🔹 [Friday](https://github.com/sidDarthVader31/friday)  
 🤖 A **Twitter bot** that retweets everything about **JavaScript** and **Node.js** in real time.  
@@ -38,7 +62,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)  
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔹 [Friday-Go](https://github.com/sidDarthVader31/friday-go)  
 🚀 A **Go rewrite** of Friday to explore **performance vs Node.js**.  
@@ -47,7 +74,8 @@
 **Tech:** ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) 
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)  
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🔹 [skeletonExpress](https://github.com/sidDarthVader31/skeletonExpress)  
 🛠️ A CLI + **Express boilerplate** with auth, logger, Docker, and batteries included.  
@@ -56,6 +84,10 @@
 **Tech:** ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -78,20 +110,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidDarthVader31&theme=tokyonight" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidDarthVader31&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidDarthVader31&theme=tokyo-night" />
-</p>
 
 ---
 
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sidbisht?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/sidDarthVader31?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
