@@ -46,7 +46,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,express,java,postgres,mysql,mongodb,docker,kubernetes,git,neovim" />
+  <img src="https://skillicons.dev/icons?i=neovim,js,ts,nodejs,go,kafka,postgres,mysql,mongodb,docker,kubernetes,git,java" />
 </p>
 
 ---
