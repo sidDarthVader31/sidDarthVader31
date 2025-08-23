@@ -1,8 +1,7 @@
 <!-- Profile README for @sidDarthVader31 -->
 
-<h1 align="center">👋 Hi, I'm Siddharth Bisht</h1>
 <p align="center">
-  <b>Senior Backend Engineer • B2B SaaS • Distributed Systems • Cloud Native</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Siddharth+Bisht+👋;Senior+Backend+Engineer;B2B+SaaS+%7C+Distributed+Systems+%7C+Cloud+Native;Neovim+Enthusiast+%7C+Adventure+Motorcyclist" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +12,7 @@
 - ⚡ Strong expertise in **Node.js, Golang, Kafka, AWS, MySQL, Redis, MongoDB**  
 - 📊 Experienced in handling **high-volume event pipelines (200K+ events/sec)** and **consumer-scale systems (500K+ DAU)**  
 - 🚀 Passionate about **performance engineering, observability, and clean architecture**  
-- 🌱 Exploring **gRPC, Golang, Kubernetes, and SRE best practices**  
+- 🌱 Exploring **gRPC, Kubernetes, and SRE best practices**  
 
 ---
 
@@ -46,7 +45,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,ts,js,java,express,nestjs,gin,mysql,postgres,mongodb,redis,elasticsearch,aws,docker,kubernetes,jenkins,git,neovim" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,nestjs,mysql,mongodb,redis,elasticsearch,aws,docker,kubernetes,jenkins,git,neovim,java,go" />
 </p>
 
 ---
@@ -61,6 +60,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidDarthVader31&theme=tokyonight" height="180" />
 </p>
+
+---
+
+## 🌟 Beyond Code
+
+- 🖥️ I’m a **Neovim enthusiast** — love tinkering with configs. Check out my [Neovim setup](https://github.com/sidDarthVader31/nvim-config) ⚡  
+- 📸 Into **photography & videography** — capturing moments one frame at a time  
+- 🏍️ Passionate about **long motorcycle tours** and adventure riding  
 
 ---
 
