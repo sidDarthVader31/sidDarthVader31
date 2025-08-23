@@ -1,7 +1,8 @@
 <!-- Profile README for @sidDarthVader31 -->
 
+<h1 align="center">👋 Hi, I'm Siddharth Bisht</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Siddharth+Bisht+👋;Senior+Backend+Engineer;B2B+SaaS+%7C+Distributed+Systems+%7C+Cloud+Native;Neovim+Enthusiast+%7C+Adventure+Motorcyclist" alt="Typing SVG" />
+  <b>Senior Backend Engineer • B2B SaaS • Distributed Systems • Cloud Native</b>
 </p>
 
 <p align="center">
