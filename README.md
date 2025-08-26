@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm Siddharth Bisht</h1>
 <p align="center">
-  <b>Senior Backend Engineer • B2B SaaS • Distributed Systems • Cloud Native</b>
+  <b>Senior Backend Engineer • B2B SaaS • Distributed Systems</b>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ## 🧑‍💻 About Me
 
 - 💼 **Backend Engineer (7+ years)** building **scalable B2B SaaS platforms** and distributed systems  
-- ⚡ Strong expertise in **Node.js, Golang, Kafka, AWS, MySQL, Redis, MongoDB**  
+- ⚡ Expertise in **Node.js, Golang, Kafka, AWS, MySQL, Redis, MongoDB**  
 - 📊 Experienced in handling **high-volume event pipelines (200K+ events/sec)** and **consumer-scale systems (500K+ DAU)**  
 - 🚀 Passionate about **performance engineering, observability, and clean architecture**  
 - 🌱 Exploring **gRPC, Kubernetes, and SRE best practices**  
@@ -30,7 +30,7 @@
 ## ⚡ Highlights
 
 > 🚀 Built **event-driven pipelines** processing **200K+ events/sec** with fault tolerance  
-> 📊 Scaled **B2B SaaS platforms** to support **500K+ DAU** with high availability  
+> 📊 Scaled **B2B SaaS platforms** by **9x** to support **500K+ DAU** with high availability  
 > 🔎 Developed **log aggregation & monitoring platform** with observability-first design  
 > 🛠️ Creator of **developer tools** like `skeletonExpress` 
 
