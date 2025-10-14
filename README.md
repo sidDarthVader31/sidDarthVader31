@@ -21,7 +21,7 @@
 
 - 💼 **Backend Engineer (7+ years)** building **scalable B2B SaaS platforms** and distributed systems  
 - ⚡ Expertise in **Node.js, Golang, Kafka, AWS, MySQL, Redis, MongoDB**  
-- 📊 Experienced in handling **high-volume event pipelines (200K+ events/sec)** and **consumer-scale systems (500K+ DAU)**  
+- 📊 Experienced in handling **high-volume event pipelines (35k+ events/sec)** and **consumer-scale systems (500K+ DAU)**  
 - 🚀 Passionate about **performance engineering, observability, and clean architecture**  
 - 🌱 Exploring **gRPC, Kubernetes, and SRE best practices**  
 
