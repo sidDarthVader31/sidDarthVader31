@@ -92,11 +92,35 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,go,mysql,postgres,mongodb,redis,elasticsearch,kafka,aws,docker,kubernetes,terraform,jenkins,kargo" />
+## 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch" />
 </p>
+
+## 💻 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=go,nodejs,ts,js" />
+</p>
+
+## ⚡ Data & Messaging
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka" />
+  <img src="https://img.shields.io/badge/Amazon%20SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white" />
+</p>
+
+## ☁️ Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
+</p>
+
+## 🚀 CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,go,mysql,postgres,mongodb,redis,elasticsearch,kafka,aws,docker,kubernetes,terraform,githubactions,jenkins" />
+</p> -->
 
 ---
 
