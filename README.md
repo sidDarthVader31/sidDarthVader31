@@ -95,7 +95,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,mysql,postgres,terraform,mongodb,redis,elasticsearch,kafka,aws,docker,kubernetes,jenkins,git,neovim,java,go" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,go,mysql,postgres,mongodb,redis,elasticsearch,kafka,aws,docker,kubernetes,terraform,jenkins,kargo" />
 </p>
 
 ---
