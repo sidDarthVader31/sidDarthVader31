@@ -36,8 +36,11 @@
 > 🛠️ Creator of developer tools including **SkeletonExpress**.
 
 ---
-
 ## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💻 Backend
 
@@ -45,11 +48,21 @@
   <img src="https://skillicons.dev/icons?i=go,nodejs,ts,js" />
 </p>
 
+</td>
+
+<td width="50%" valign="top">
+
 ### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch" />
 </p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### ⚡ Data & Messaging
 
@@ -57,18 +70,19 @@
   <img src="https://skillicons.dev/icons?i=kafka" />
 </p>
 
-### ☁️ Cloud & Infrastructure
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Infrastructure & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins" />
 </p>
 
-### 🚀 CI/CD
-
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
-</p>
-
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Featured Projects
