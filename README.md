@@ -249,8 +249,6 @@ Currently learning and exploring:
 - 🚀 Build production-grade open-source systems
 - 📖 Write engineering blogs
 - 🏗️ Deep dive into PostgreSQL internals
-- 🌐 Contribute to Go ecosystem
-- ⚡ Build distributed systems from scratch
 - 📦 Launch developer tools
 
 ---
@@ -260,7 +258,6 @@ Currently learning and exploring:
 - 🏍️ Long-distance motorcycle touring
 - 📸 Photography & Videography
 - ⌨️ Neovim customization
-- ☕ Coffee-powered debugging sessions
 
 ---
 
