@@ -1,52 +1,75 @@
-
 <!-- Profile README for @sidDarthVader31 -->
 
-<h1 align="center">👋 Hi, I'm Siddharth Bisht</h1>
+<h1 align="center">Hi 👋, I'm Siddharth Bisht</h1>
 
 <p align="center">
-  <b>Senior Backend Engineer • B2B SaaS • Distributed Systems</b>
+  <b>Senior Backend Engineer • Distributed Systems • Data Engineering</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+Building high-performance backend systems, real-time data pipelines,<br>
+and cloud-native infrastructure that scales.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 👨‍💻 About Me
 
-- 💼 **Senior Backend Engineer** with **7+ years** of experience building scalable **B2B SaaS platforms** and distributed systems.
-- ⚡ Strong expertise in **Node.js, Golang, Kafka, AWS, PostgreSQL, MySQL, MongoDB, and Redis**.
-- 📊 Experienced in designing **high-volume event pipelines (35K+ events/sec)** and systems serving **500K+ daily active users**.
-- 🚀 Passionate about **distributed systems, performance engineering, observability, and clean architecture**.
-- 🌱 Currently exploring **gRPC, Kubernetes, and Site Reliability Engineering (SRE)**.
+Backend engineer with **7+ years** of experience designing distributed systems, event-driven architectures, and cloud-native platforms.
+
+I enjoy solving engineering problems around **performance, scalability, databases, observability, and developer productivity**.
+
+Currently working in **Data Engineering**, building and improving large-scale database infrastructure, distributed data workflows, and backend platforms.
+
+---
+
+# 📈 Engineering Impact
+
+| Metric | Scale |
+|---------|-------|
+| 👥 Users Served | **500K+ Daily Active Users** |
+| ⚡ Event Processing | **200K+ Events / Second** |
+| 📨 Event Pipelines | **35K+ Messages / Second** |
+| 📈 Platform Growth | **9× Scale Increase** |
+| 💼 Experience | **7+ Years** |
 
 ---
 
-## ⚡ Highlights
+# 🏗️ What I Build
 
-> 🚀 Built event-driven pipelines processing **200K+ events/sec** with fault tolerance.  
-> 📈 Scaled B2B SaaS platforms by **9×** to support **500K+ DAU**.  
-> 🔎 Built log aggregation and monitoring platforms with an **observability-first** approach.  
-> 🛠️ Creator of developer tools including **SkeletonExpress**.
+- ⚡ High-performance Backend APIs
+- 🌐 Distributed Systems
+- 📨 Event-Driven Architectures
+- 🗄️ Database Engineering
+- ☁️ Cloud Infrastructure
+- 📊 Data Engineering Pipelines
+- 🔍 Observability Platforms
+- 🛠️ Developer Tooling
 
 ---
-## 🛠️ Tech Stack
+
+# 🛠️ Tech Stack
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 💻 Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,ts,js" />
+<img src="https://skillicons.dev/icons?i=go,nodejs,ts,js"/>
 </p>
+
+Building scalable APIs, distributed services and backend platforms.
 
 </td>
 
@@ -55,20 +78,26 @@
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch"/>
 </p>
 
+Performance optimization, indexing, replication and data modeling.
+
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### ⚡ Data & Messaging
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kafka" />
+<img src="https://skillicons.dev/icons?i=kafka"/>
 </p>
+
+Real-time streaming, asynchronous processing and event-driven systems.
 
 </td>
 
@@ -77,134 +106,178 @@
 ### ☁️ Infrastructure & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins"/>
 </p>
 
+Cloud-native deployment, CI/CD and container orchestration.
+
 </td>
+
 </tr>
+
 </table>
+
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🔹 [Apexio](https://github.com/sidDarthVader31/apexio)
+## 🔹 Apexio
 
-📊 Real-time **log aggregation platform** built with **Go, gRPC, Kafka, Docker, Kubernetes, and Elasticsearch**.
+### Real-time Log Aggregation Platform
 
-- 🔎 Observability-first
-- ⚡ Horizontally scalable
-- 🌐 SRE-inspired architecture
+High-performance observability platform inspired by production logging systems.
+
+**Highlights**
+
+- gRPC Streaming
+- Kafka-based Event Pipeline
+- Elasticsearch Indexing
+- Kubernetes Deployment
+- Distributed Architecture
 
 **Tech**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+Go • Kafka • Elasticsearch • Docker • Kubernetes
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔹 [Friday](https://github.com/sidDarthVader31/friday)
+## 🔹 Friday
 
-🤖 Twitter bot that automatically discovers and retweets **JavaScript** and **Node.js** content in real time.
+### Intelligent Twitter Automation
 
-- 📰 Automated content discovery
-- ⚡ Real-time processing
-- 🔍 Easily extensible
+Developer-focused Twitter bot that discovers and shares JavaScript and Node.js content automatically.
+
+**Highlights**
+
+- Real-time Automation
+- Scheduled Workers
+- Extensible Architecture
 
 **Tech**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)
+Node.js • JavaScript
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🔹 [Friday-Go](https://github.com/sidDarthVader31/friday-go)
+## 🔹 Friday-Go
 
-🚀 Go implementation of Friday to compare **Go concurrency** against Node.js.
+### Go Performance Experiment
 
-- ⚡ Lightweight
-- 🚀 High performance
-- 🧩 Concurrent by design
+Reimplementation of Friday to compare Go concurrency against Node.js.
 
-**Tech**
+Focus Areas
 
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)
+- Goroutines
+- Worker Pools
+- Performance Benchmarking
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔹 [SkeletonExpress](https://github.com/sidDarthVader31/skeletonExpress)
+## 🔹 SkeletonExpress
 
-🛠️ Express.js boilerplate and CLI with authentication, logging, Docker support, and production-ready defaults.
+### Production-ready Express Starter
 
-- 📦 Rapid project setup
-- 🗂️ Clean architecture
-- ⚡ Ready for production
+CLI and boilerplate for rapidly bootstrapping production-ready backend applications.
 
-**Tech**
+Includes
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+- Authentication
+- Logging
+- Docker
+- Clean Architecture
+- Environment Management
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-## 📊 GitHub Stats
+# 🌱 Current Focus
+
+Currently learning and exploring:
+
+- PostgreSQL Internals
+- Database Consolidation
+- Distributed Data Systems
+- Kubernetes
+- Go Performance
+- Infrastructure Automation
+- Event Streaming Patterns
+- System Design
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidDarthVader31&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidDarthVader31&layout=compact&theme=tokyonight" height="180"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sidDarthVader31&show_icons=true&theme=tokyonight" height="180"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidDarthVader31&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidDarthVader31&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-## 🧩 LeetCode
+# 🧩 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sidDarthVader31?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/sidDarthVader31?theme=dark&font=Roboto&ext=contest"/>
 </p>
 
 ---
 
-## 🌟 Beyond Code
+# 🎯 2026 Goals
 
-- 🖥️ Neovim enthusiast who enjoys customizing editor workflows. Check out my **Neovim configuration**.
-- 📸 Passionate about photography and videography.
-- 🏍️ Love long-distance motorcycle touring and adventure riding.
+- 🚀 Build production-grade open-source systems
+- 📖 Write engineering blogs
+- 🏗️ Deep dive into PostgreSQL internals
+- 🌐 Contribute to Go ecosystem
+- ⚡ Build distributed systems from scratch
+- 📦 Launch developer tools
 
 ---
 
-## 🌐 Connect With Me
+# 🌄 Beyond Code
+
+- 🏍️ Long-distance motorcycle touring
+- 📸 Photography & Videography
+- ⌨️ Neovim customization
+- ☕ Coffee-powered debugging sessions
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:siddharthbisht31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:siddharthbisht31@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/siddharthbisht31">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/siddharthbisht31">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>"First make it work. Then make it fast. Then make it scale."</i>
 </p>
