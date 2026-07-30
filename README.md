@@ -173,17 +173,12 @@ Node.js • JavaScript
 
 <td width="50%" valign="top">
 
-## 🔹 Friday-Go
+## 🔹 Looper
 
 ### Go Performance Experiment
 
-Reimplementation of Friday to compare Go concurrency against Node.js.
+A VS Code extension that visualizes the Node.js call stack, microtask queue, and macrotask queue live — using your real function names — without modifying, wrapping, or adding any dependency to your app.
 
-Focus Areas
-
-- Goroutines
-- Worker Pools
-- Performance Benchmarking
 
 </td>
 
