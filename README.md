@@ -175,7 +175,7 @@ Node.js • JavaScript
 
 ## 🔹 Looper
 
-### Go Performance Experiment
+### VS Code extension
 
 A VS Code extension that visualizes the Node.js call stack, microtask queue, and macrotask queue live — using your real function names — without modifying, wrapping, or adding any dependency to your app.
 
