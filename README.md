@@ -1,275 +1,87 @@
 <!-- Profile README for @sidDarthVader31 -->
 
-<h1 align="center">Hi 👋, I'm Siddharth Bisht</h1>
+<h1 align="center">Siddharth Bisht</h1>
 
 <p align="center">
-  <b>Senior Backend Engineer • Distributed Systems • Data Engineering</b>
-</p>
-
-<p align="center">
-Building high-performance backend systems, real-time data pipelines,<br>
-and cloud-native infrastructure that scales.
+  <b>Senior Backend Engineer · Distributed Systems · Data Engineering</b><br>
+  New Delhi · Open to senior backend / data platform roles
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  I build high-performance backend systems, real-time data pipelines,<br>
+  and cloud-native infrastructure that stays fast as scale grows.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## Impact
 
-Backend engineer with **7+ years** of experience designing distributed systems, event-driven architectures, and cloud-native platforms.
+At scale on consumer platforms:
 
-I enjoy solving engineering problems around **performance, scalability, databases, observability, and developer productivity**.
+- **500K+ daily active users** served by systems I've built and operated
+- **200K+ events / second** processed in distributed pipelines
+- **35K+ messages / second** through event-driven architectures, with **9× platform growth** over time
 
-Currently working in **Data Engineering**, building and improving large-scale database infrastructure, distributed data workflows, and backend platforms.
-
----
-
-# 📈 Engineering Impact
-
-| Metric | Scale |
-|---------|-------|
-| 👥 Users Served | **500K+ Daily Active Users** |
-| ⚡ Event Processing | **200K+ Events / Second** |
-| 📨 Event Pipelines | **35K+ Messages / Second** |
-| 📈 Platform Growth | **9× Scale Increase** |
-| 💼 Experience | **7+ Years** |
+Seven years designing distributed systems, event-driven architectures, and cloud-native data platforms — focused on performance, scalability, databases, and observability.
 
 ---
 
-# 🏗️ What I Build
+## Featured work
 
-- ⚡ High-performance Backend APIs
-- 🌐 Distributed Systems
-- 📨 Event-Driven Architectures
-- 🗄️ Database Engineering
-- ☁️ Cloud Infrastructure
-- 📊 Data Engineering Pipelines
-- 🔍 Observability Platforms
-- 🛠️ Developer Tooling
+### [Apexio](https://github.com/sidDarthVader31/apexio) — real-time log aggregation
 
----
+High-performance observability platform for streaming, indexing, and analyzing logs at scale.
 
-# 🛠️ Tech Stack
+- gRPC streaming, Kafka event pipeline, Elasticsearch indexing
+- Distributed architecture with Kubernetes deployment
+- **Stack:** Go · Kafka · Elasticsearch · Docker · Kubernetes
 
-<table>
-<tr>
+### [Looper](https://github.com/sidDarthVader31/looper) — Node.js event-loop visualizer
 
-<td width="50%" valign="top">
+VS Code extension that visualizes the call stack, microtask queue, and macrotask queue live — using your real function names, without wrapping or adding dependencies to your app.
 
-### 💻 Backend
+- **Stack:** JavaScript · VS Code API
 
-<p>
-<img src="https://skillicons.dev/icons?i=go,nodejs,ts,js"/>
-</p>
+### [Luka](https://github.com/sidDarthVader31/luka) — system design simulator
 
-Building scalable APIs, distributed services and backend platforms.
+Interactive simulator for exploring system design trade-offs and distributed system behavior.
 
-</td>
+- **Stack:** Go
 
-<td width="50%" valign="top">
+<details>
+<summary>Earlier work</summary>
 
-### 🗄️ Databases
+- [Friday](https://github.com/sidDarthVader31/Friday) — Twitter automation for JavaScript / Node.js content
+- [skeletonExpress](https://github.com/sidDarthVader31/skeletonExpress) — CLI / boilerplate for production-ready Express apps
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch"/>
-</p>
-
-Performance optimization, indexing, replication and data modeling.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚡ Data & Messaging
-
-<p>
-<img src="https://skillicons.dev/icons?i=kafka"/>
-</p>
-
-Real-time streaming, asynchronous processing and event-driven systems.
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☁️ Infrastructure & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins"/>
-</p>
-
-Cloud-native deployment, CI/CD and container orchestration.
-
-</td>
-
-</tr>
-
-</table>
+</details>
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🔹 Apexio
-
-### Real-time Log Aggregation Platform
-
-High-performance observability platform inspired by production logging systems.
-
-**Highlights**
-
-- gRPC Streaming
-- Kafka-based Event Pipeline
-- Elasticsearch Indexing
-- Kubernetes Deployment
-- Distributed Architecture
-
-**Tech**
-
-Go • Kafka • Elasticsearch • Docker • Kubernetes
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🔹 Friday
-
-### Intelligent Twitter Automation
-
-Developer-focused Twitter bot that discovers and shares JavaScript and Node.js content automatically.
-
-**Highlights**
-
-- Real-time Automation
-- Scheduled Workers
-- Extensible Architecture
-
-**Tech**
-
-Node.js • JavaScript
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🔹 Looper
-
-### VS Code extension
-
-A VS Code extension that visualizes the Node.js call stack, microtask queue, and macrotask queue live — using your real function names — without modifying, wrapping, or adding any dependency to your app.
-
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🔹 SkeletonExpress
-
-### Production-ready Express Starter
-
-CLI and boilerplate for rapidly bootstrapping production-ready backend applications.
-
-Includes
-
-- Authentication
-- Logging
-- Docker
-- Clean Architecture
-- Environment Management
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🌱 Current Focus
-
-Currently learning and exploring:
-
-- PostgreSQL Internals
-- Database Consolidation
-- Distributed Data Systems
-- Kubernetes
-- Go Performance
-- Infrastructure Automation
-- Event Streaming Patterns
-- System Design
-
----
-
-# 📊 GitHub Activity
+## Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sidDarthVader31&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidDarthVader31&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://skillicons.dev/icons?i=go,nodejs,ts,postgres,kafka,aws,docker,kubernetes,redis,terraform" alt="Go, Node.js, TypeScript, PostgreSQL, Kafka, AWS, Docker, Kubernetes, Redis, Terraform" />
 </p>
 
+Backend APIs and distributed services · PostgreSQL and data modeling · Kafka streaming · AWS / Kubernetes / Terraform
+
 ---
 
-# 🧩 LeetCode
+## Now
+
+- Deepening PostgreSQL internals and distributed data systems
+- Shipping production-grade open-source tools (starting with Apexio and Luka)
+- Writing more about backend and data platform engineering
+
+Outside work: long-distance motorcycle touring, photography, and Neovim.
+
+---
+
+## Connect
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/sidDarthVader31?theme=dark&font=Roboto&ext=contest"/>
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build production-grade open-source systems
-- 📖 Write engineering blogs
-- 🏗️ Deep dive into PostgreSQL internals
-- 📦 Launch developer tools
-
----
-
-# 🌄 Beyond Code
-
-- 🏍️ Long-distance motorcycle touring
-- 📸 Photography & Videography
-- ⌨️ Neovim customization
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-<a href="mailto:siddharthbisht31@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/siddharthbisht31">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
----
-
-<p align="center">
-<i>"First make it work. Then make it fast. Then make it scale."</i>
+  <a href="mailto:siddharthbisht31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/siddharthbisht31"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://about.me/siddharth_bisht"><img src="https://img.shields.io/badge/about.me-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="about.me" /></a>
 </p>
