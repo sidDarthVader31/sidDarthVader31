@@ -48,33 +48,12 @@ I like hard problems around **latency, throughput, data correctness, and develop
 
 ## Engineering Impact
 
-Recently shipped an **IP enrichment service** for compliance and security:
-
 <div align="center">
 
-| | |
-|:---:|:---:|
-| **50.2M** | **&lt;1ms** |
-| Requests / Month | p65 Latency |
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Domain-Compliance%20%26%20Security-22C55E?style=flat-square" alt="Compliance and security"/>
-  <img src="https://img.shields.io/badge/Service-IP%20Enrichment-58A6FF?style=flat-square" alt="IP enrichment"/>
-  <img src="https://img.shields.io/badge/Latency-p65%20%3C%201ms-A855F7?style=flat-square" alt="Sub-millisecond p65"/>
-</p>
-
-<br>
-
-At scale across consumer platforms and data systems:
-
-<div align="center">
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| **500K+** | **200K+** | **35K+** | **9×** |
-| Daily Active Users | Events / Second | Messages / Second | Platform Growth |
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| **500K+** | **200K+** | **50.2M** | **&lt;1ms** | **9×** |
+| Daily Active Users | Events / Second | Requests / Month | p65 Latency | Platform Growth |
 
 </div>
 
@@ -82,6 +61,7 @@ At scale across consumer platforms and data systems:
   <img src="https://img.shields.io/badge/Scale-Consumer%20Platforms-58A6FF?style=flat-square" alt="Consumer platforms"/>
   <img src="https://img.shields.io/badge/Focus-Distributed%20Pipelines-A855F7?style=flat-square" alt="Distributed pipelines"/>
   <img src="https://img.shields.io/badge/Mode-Event--Driven-F97316?style=flat-square" alt="Event-driven"/>
+  <img src="https://img.shields.io/badge/Latency-p65%20%3C%201ms-22C55E?style=flat-square" alt="Sub-millisecond p65"/>
 </p>
 
 ---
