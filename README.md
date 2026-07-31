@@ -44,11 +44,30 @@ Backend engineer × 7+ years
 
 I like hard problems around **latency, throughput, data correctness, and developer experience**.
 
-> Motorcycle touring · Photography · Neovim tinkerer
-
 ---
 
 ## Engineering Impact
+
+Recently shipped an **IP enrichment service** for compliance and security:
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| **50.2M** | **&lt;1ms** |
+| Requests / Month | p65 Latency |
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-Compliance%20%26%20Security-22C55E?style=flat-square" alt="Compliance and security"/>
+  <img src="https://img.shields.io/badge/Service-IP%20Enrichment-58A6FF?style=flat-square" alt="IP enrichment"/>
+  <img src="https://img.shields.io/badge/Latency-p65%20%3C%201ms-A855F7?style=flat-square" alt="Sub-millisecond p65"/>
+</p>
+
+<br>
+
+At scale across consumer platforms and data systems:
 
 <div align="center">
 
@@ -250,6 +269,8 @@ Interactive simulator for exploring system design trade-offs and distributed sys
 
 <div align="center">
 
+### Motorcycle touring · Photography · Neovim tinkerer
+
 | 🏍️ | 📸 | ⌨️ |
 |:---:|:---:|:---:|
 | **Long-distance** motorcycle touring | Photography & videography | Neovim customization |
@@ -269,6 +290,6 @@ Interactive simulator for exploring system design trade-offs and distributed sys
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=First+make+it+work.+Then+make+it+fast.+Then+make+it+scale." alt="Tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=820&height=40&lines=First+make+it+work.+Then+make+it+fast.+Then+make+it+scale." alt="Tagline"/>
 
 </div>
