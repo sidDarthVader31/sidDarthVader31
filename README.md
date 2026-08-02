@@ -61,7 +61,7 @@ I like hard problems around **latency, throughput, data correctness, and develop
   <img src="https://img.shields.io/badge/Scale-Consumer%20Platforms-58A6FF?style=flat-square" alt="Consumer platforms"/>
   <img src="https://img.shields.io/badge/Focus-Distributed%20Pipelines-A855F7?style=flat-square" alt="Distributed pipelines"/>
   <img src="https://img.shields.io/badge/Mode-Event--Driven-F97316?style=flat-square" alt="Event-driven"/>
-  <img src="https://img.shields.io/badge/Latency-p65%20%3C%201ms-22C55E?style=flat-square" alt="Sub-millisecond p95"/>
+  <img src="https://img.shields.io/badge/Latency-p95%20%3C%201ms-22C55E?style=flat-square" alt="Sub-millisecond p95"/>
 </p>
 
 ---
