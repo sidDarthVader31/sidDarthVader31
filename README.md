@@ -52,7 +52,7 @@ I like hard problems around **latency, throughput, data correctness, and develop
 
 | | | | | |
 |:---:|:---:|:---:|:---:|:---:|
-| **500K+** | **200K+** | **50.2M** | **&lt;1ms** | **9×** |
+| **500K+** | **200K+** | **190.2M** | **&lt;1ms** | **9×** |
 | Daily Active Users | Events / Second | Requests / Month | p95 Latency | Platform Growth |
 
 </div>
