@@ -147,7 +147,7 @@ Interactive simulator for exploring system design trade-offs and distributed sys
 | Project | What it is |
 |---------|------------|
 | [Cursor.nvim](https://github.com/sidDarthVader31/cursor.nvim) | Plugin to use cursor inside Neovim |
-| [orbit](https://github.com/sidDarthVader31/skeletonExpress) | Cursor based agent for our day to day workflows-managing Jira, updating sprint board, creating PRs, write code etc |
+| [orbit](https://github.com/sidDarthVader31/skeletonExpress) | Cursor based agent for everyday tasks |
 
 </td>
 </tr>
