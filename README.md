@@ -146,9 +146,8 @@ Interactive simulator for exploring system design trade-offs and distributed sys
 
 | Project | What it is |
 |---------|------------|
-| [Friday](https://github.com/sidDarthVader31/Friday) | Twitter automation for JS / Node content |
-| [skeletonExpress](https://github.com/sidDarthVader31/skeletonExpress) | Production-ready Express CLI / boilerplate |
-| [friday-go](https://github.com/sidDarthVader31/friday-go) | Friday bot rewritten in Go for performance |
+| [Cursor.nvim](https://github.com/sidDarthVader31/cursor.nvim) | Plugin to use cursor inside Neovim |
+| [orbit](https://github.com/sidDarthVader31/skeletonExpress) | Cursor based agent for our day to day workflows-managing Jira, updating sprint board, creating PRs, write code etc |
 
 </td>
 </tr>
